@@ -1,0 +1,9 @@
+E:\Rajaei\C#1\C#1 Sundays Tusedays\Session 8\Class Works\MiniNotepad\MiniNotepad\bin\Debug\MiniNotepad.exe.config
+E:\Rajaei\C#1\C#1 Sundays Tusedays\Session 8\Class Works\MiniNotepad\MiniNotepad\bin\Debug\MiniNotepad.exe
+E:\Rajaei\C#1\C#1 Sundays Tusedays\Session 8\Class Works\MiniNotepad\MiniNotepad\bin\Debug\MiniNotepad.pdb
+E:\Rajaei\C#1\C#1 Sundays Tusedays\Session 8\Class Works\MiniNotepad\MiniNotepad\obj\Debug\MiniNotepad.csprojResolveAssemblyReference.cache
+E:\Rajaei\C#1\C#1 Sundays Tusedays\Session 8\Class Works\MiniNotepad\MiniNotepad\obj\Debug\MiniNotepad.Form1.resources
+E:\Rajaei\C#1\C#1 Sundays Tusedays\Session 8\Class Works\MiniNotepad\MiniNotepad\obj\Debug\MiniNotepad.Properties.Resources.resources
+E:\Rajaei\C#1\C#1 Sundays Tusedays\Session 8\Class Works\MiniNotepad\MiniNotepad\obj\Debug\MiniNotepad.csproj.GenerateResource.Cache
+E:\Rajaei\C#1\C#1 Sundays Tusedays\Session 8\Class Works\MiniNotepad\MiniNotepad\obj\Debug\MiniNotepad.exe
+E:\Rajaei\C#1\C#1 Sundays Tusedays\Session 8\Class Works\MiniNotepad\MiniNotepad\obj\Debug\MiniNotepad.pdb
