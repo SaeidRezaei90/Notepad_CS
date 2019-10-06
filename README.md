@@ -1,2 +1,2 @@
-# Notepad_CS
+### Notepad_CS
 My NotePad Project in C#
