@@ -78,7 +78,7 @@ namespace MiniNotepad
         {
             if (_originalTextData.CompareTo(MainTextBox.Text) != 0)
             {
-                DialogResult result = MessageBox.Show("آیا ذخیره شود؟", "هشدار", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Question, MessageBoxDefaultButton.Button2, MessageBoxOptions.RtlReading);
+                DialogResult result = MessageBox.Show("Do you want to save changes", "Error", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Question, MessageBoxDefaultButton.Button2);
                 switch (result)
                 {
                     case DialogResult.Cancel:

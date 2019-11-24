@@ -7,3 +7,6 @@ E:\Rajaei\C#1\C#1 Sundays Tusedays\Session 8\Class Works\MiniNotepad\MiniNotepad
 E:\Rajaei\C#1\C#1 Sundays Tusedays\Session 8\Class Works\MiniNotepad\MiniNotepad\obj\Debug\MiniNotepad.csproj.GenerateResource.Cache
 E:\Rajaei\C#1\C#1 Sundays Tusedays\Session 8\Class Works\MiniNotepad\MiniNotepad\obj\Debug\MiniNotepad.exe
 E:\Rajaei\C#1\C#1 Sundays Tusedays\Session 8\Class Works\MiniNotepad\MiniNotepad\obj\Debug\MiniNotepad.pdb
+E:\Github Rep\Notepad_CS\MiniNotepad\MiniNotepad\bin\Debug\MiniNotepad.exe.config
+E:\Github Rep\Notepad_CS\MiniNotepad\MiniNotepad\obj\Debug\MiniNotepad.exe
+E:\Github Rep\Notepad_CS\MiniNotepad\MiniNotepad\obj\Debug\MiniNotepad.pdb
