@@ -10,3 +10,9 @@ E:\Rajaei\C#1\C#1 Sundays Tusedays\Session 8\Class Works\MiniNotepad\MiniNotepad
 E:\Github Rep\Notepad_CS\MiniNotepad\MiniNotepad\bin\Debug\MiniNotepad.exe.config
 E:\Github Rep\Notepad_CS\MiniNotepad\MiniNotepad\obj\Debug\MiniNotepad.exe
 E:\Github Rep\Notepad_CS\MiniNotepad\MiniNotepad\obj\Debug\MiniNotepad.pdb
+E:\Github Rep\Notepad_CS\MiniNotepad\MiniNotepad\bin\Debug\MiniNotepad.exe
+E:\Github Rep\Notepad_CS\MiniNotepad\MiniNotepad\bin\Debug\MiniNotepad.pdb
+E:\Github Rep\Notepad_CS\MiniNotepad\MiniNotepad\obj\Debug\MiniNotepad.csprojResolveAssemblyReference.cache
+E:\Github Rep\Notepad_CS\MiniNotepad\MiniNotepad\obj\Debug\MiniNotepad.Form1.resources
+E:\Github Rep\Notepad_CS\MiniNotepad\MiniNotepad\obj\Debug\MiniNotepad.Properties.Resources.resources
+E:\Github Rep\Notepad_CS\MiniNotepad\MiniNotepad\obj\Debug\MiniNotepad.csproj.GenerateResource.Cache
